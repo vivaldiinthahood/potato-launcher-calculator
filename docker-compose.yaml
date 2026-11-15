@@ -1,0 +1,18 @@
+services:
+  potato-calculator:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: potato-launcher-calculator
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
