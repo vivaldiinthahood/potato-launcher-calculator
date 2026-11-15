@@ -6,12 +6,13 @@ https://spudfiles.com/spud_wiki/index.php?title=Chamber_to_barrel_ratio
 It uses python and streamlit for the webapp and docker compose for the build / deployment process. 
 
 - Have I made one of these? No. Not only is it illegal where I live, I am too lazy to construct one. 
-- It the matematics behind this solid and confirmed? Bitch please. It appears to math.
-- Should I use this as the basis for my (legal where I live) potato cannon? Thats a solid NO from me, but knock yourself out.  
+- It the mathematics behind this solid and confirmed? Bitch please. It appears to math.
+- Should I use this as the basis for my (legal where I live) potato cannon? That's a solid NO from me, but knock yourself out.  
 
 The calculator looks like this: 
 
-![Preview][https://raw.githubusercontent.com/username/project/master/image-path/image.png](screenshot)
+![The thing](https://raw.githubusercontent.com/vivaldiinthahood/potato-launcher-calculator/refs/heads/main/example.png)
+
 
 ## To build it
 
