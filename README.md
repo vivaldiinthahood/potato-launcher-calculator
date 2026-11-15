@@ -6,7 +6,7 @@ https://spudfiles.com/spud_wiki/index.php?title=Chamber_to_barrel_ratio
 It uses python and streamlit for the webapp and docker compose for the build / deployment process. 
 
 - Have I made one of these? No. Not only is it illegal where I live, I am too lazy to construct one. 
-- It the mathematics behind this solid and confirmed? Bitch please. It appears to math.
+- Is the mathematics behind this solid and confirmed? Bitch please! It appears to math.
 - Should I use this as the basis for my (legal where I live) potato cannon? That's a solid NO from me, but knock yourself out.  
 
 The calculator looks like this: 
@@ -40,7 +40,7 @@ None applied by me. I have no idea what I'm doing.
 
 ## The math
 
-Nope. If its correct, all credit goes to lords of flying praties over at spudfiles.com. Also the AI for interpreting it correctly, I guess. If it's incorect, I don't care tbh. 
+Nope. If its correct, all credit goes to lords of flying praties over at spudfiles.com. Also the AI for interpreting it correctly, I guess. If it's incorrect, I don't care tbh. 
 
 ## The security 
 
