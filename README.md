@@ -11,7 +11,7 @@ It uses python and streamlit for the webapp and docker compose for the build / d
 
 The calculator looks like this: 
 
-[[screenshot goes here]]
+![Preview][https://raw.githubusercontent.com/username/project/master/image-path/image.png](screenshot)
 
 ## To build it
 
