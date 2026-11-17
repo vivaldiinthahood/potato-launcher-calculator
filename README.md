@@ -18,6 +18,7 @@ The calculator looks like this:
 
 ```
 git clone https://github.com/vivaldiinthahood/potato-launcher-calculator.git
+cd potato-launcher-calculator
 docker compose up -d --build
 ```
 
