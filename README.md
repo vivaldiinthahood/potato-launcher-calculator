@@ -17,8 +17,8 @@ The calculator looks like this:
 ## To build it
 
 ```
+git clone https://github.com/vivaldiinthahood/potato-launcher-calculator.git
 docker compose up -d --build
-docker build -t potato-launcher-calculator:latest .
 ```
 
 Then get your math on at http://127.0.0.1:8501
